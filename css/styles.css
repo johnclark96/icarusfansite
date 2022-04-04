@@ -1,0 +1,16 @@
+header {
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+header .top-bar {
+    width: fit-content;
+    height: 100px;
+    text-align: center;
+    display: flexbox;
+    display: inline-block;
+    background-color: yellow;
+    
+
+}
